@@ -1,0 +1,45 @@
+[
+     {
+         "id": "1",
+         "name": "Alice Johnson",
+         "email": "alice.johnson@example.com",
+         "rating": 5,
+         "info": "Exceptional service, a"
+     },
+     {
+         "id": "2",
+         "name": "Bob Smith",
+         "email": "bob.smith@example.com",
+         "rating": 4,
+         "info": "Great experience, will"
+     },
+     {
+         "id": "3",
+         "name": "Charlie Brown",
+         "email": "charlie.brown@example.com",
+         "rating": 3,
+         "info": "It was okay, not too"
+     },
+     {
+         "id": "4",
+         "name": "Dana White",
+         "email": "dana.white@example.com",
+         "rating": 2,
+         "info": "Disappointing, could be"
+     },
+     {
+         "id": "5",
+         "name": "Eva Green",
+         "email": "eva.green@example.com",
+         "rating": 1,
+         "info": "Very poor service, not"
+     },
+     {
+         "id": "6",
+         "name": "Frank Black",
+         "email": "frank.black@example.com",
+         "rating": 5,
+         "info": "Outstanding quality, h"
+     }
+ ]
+ 

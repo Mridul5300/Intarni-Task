@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "image": "https://i.ibb.co/VpZjGX8/sanju-pandita-ZYrh-Wx-Iu-Eq-Q-unsplash.jpg",
+        "price": 799.99,
+        "info": {
+            "display": "6.2 inch, 1080 x 2400 pixels",
+            "processor": "Exynos 2100",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4000mAh"
+        }
+    },
+    {
+        "id": 2,
+        "name": "iPhone 13",
+        "brand_name": "Apple",
+        "image": "https://i.ibb.co/8Xp2z4p/onur-binay-ep-M08-OIf-Gqk-unsplash.jpg",
+        "price": 999.99,
+        "info": {
+            "display": "6.1 inch, 1170 x 2532 pixels",
+            "processor": "A15 Bionic",
+            "memory": "6GB RAM, 128GB storage",
+            "battery": "3095mAh"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Pixel 6",
+        "brand_name": "Google",
+        "image": "https://i.ibb.co/XkC9bt1/images.jpg",
+        "price": 599.99,
+        "info": {
+            "display": "6.4 inch, 1080 x 2400 pixels",
+            "processor": "Google Tensor",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4614mAh"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Xperia 5 II",
+        "brand_name": "Sony",
+        "image": "https://i.ibb.co/D86rXzV/sony-xperia-5-ii-5g-2.jpg",
+        "price": 949.99,
+        "info": {
+            "display": "6.1 inch, 1080 x 2520 pixels",
+            "processor": "Snapdragon 865",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4000mAh"
+        }
+    },
+    {
+        "id": 5,
+        "name": "OnePlus 9",
+        "brand_name": "OnePlus",
+        "image": "https://i.ibb.co/VYr9Kgv/One-Plus-9-Pro-Pine-Green-500x500.jpg",
+        "price": 729.99,
+        "info": {
+            "display": "6.55 inch, 1080 x 2400 pixels",
+            "processor": "Snapdragon 888",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4500mAh"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mi 11",
+        "brand_name": "Xiaomi",
+        "image": "https://i.ibb.co/dpBzCZV/pms-1666344667-93946102.png",
+        "price": 749.99,
+        "info": {
+            "display": "6.81 inch, 1440 x 3200 pixels",
+            "processor": "Snapdragon 888",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4600mAh"
+        }
+    },
+    {
+        "id": 7,
+        "name": "P40 Pro",
+        "brand_name": "Huawei",
+        "image": "https://i.ibb.co/bXFF9zp/61u6jq-Tnca-L-AC-SL1000.jpg",
+        "price": 899.99,
+        "info": {
+            "display": "6.58 inch, 1200 x 2640 pixels",
+            "processor": "Kirin 990 5G",
+            "memory": "8GB RAM, 256GB storage",
+            "battery": "4200mAh"
+        }
+    },
+    {
+        "id": 8,
+        "name": "LG Velvet",
+        "brand_name": "LG",
+        "image": "https://i.ibb.co/D95VcmN/download.jpg",
+        "price": 599.99,
+        "info": {
+            "display": "6.8 inch, 1080 x 2460 pixels",
+            "processor": "Snapdragon 765G",
+            "memory": "6GB RAM, 128GB storage",
+            "battery": "4300mAh"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Nokia 8.3 5G",
+        "brand_name": "Nokia",
+        "image": "https://i.ibb.co/HV5538p/downloaded.jpg",
+        "price": 649.99,
+        "info": {
+            "display": "6.81 inch, 1080 x 2400 pixels",
+            "processor": "Snapdragon 765G",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4500mAh"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Moto G Power",
+        "brand_name": "Motorola",
+        "image": "https://i.ibb.co/XLFNPXZ/downloading.jpg",
+        "price": 249.99,
+        "info": {
+            "display": "6.6 inch, 720 x 1600 pixels",
+            "processor": "Snapdragon 662",
+            "memory": "4GB RAM, 64GB storage",
+            "battery": "5000mAh"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Oppo Reno 6",
+        "brand_name": "Oppo",
+        "image": "https://i.ibb.co/41QchPk/downloads.jpg",
+        "price": 499.99,
+        "info": {
+            "display": "6.43 inch, 1080 x 2400 pixels",
+            "processor": "MediaTek Dimensity 900",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4300mAh"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Vivo V21",
+        "brand_name": "Vivo",
+        "image": "https://i.ibb.co/DVvQ7Qb/downloades.jpg",
+        "price": 399.99,
+        "info": {
+            "display": "6.44 inch, 1080 x 2400 pixels",
+            "processor": "MediaTek Dimensity 800U",
+            "memory": "8GB RAM, 128GB storage",
+            "battery": "4000mAh"
+        }
+    }
+]

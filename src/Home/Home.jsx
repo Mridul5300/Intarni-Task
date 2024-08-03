@@ -1,10 +1,17 @@
-import Navbar from "../Navbar/Navbar";
+import Banner from "./Banner/Banner";
+import Fetured from "./Fetured/Fetured";
+
+import Review from "./Review/Review";
+
 
 
 const Home = () => {
      return (
           <div>
-               <Navbar></Navbar>
+               
+               <Banner></Banner>
+               <Fetured></Fetured>
+               <Review/>
           </div>
      );
 };
